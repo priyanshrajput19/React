@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshrajput19/React.git"
+  },
+  "author": "Priyansh Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshrajput19/React/issues"
+  },
+  "homepage": "https://github.com/priyanshrajput19/React#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
