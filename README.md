@@ -1,0 +1,13 @@
+# Parcel
+- Dev Build
+- Local Server
+- HMR => 
+- File watcing algorithm - written in c++
+- Caching
+- Image optimization 
+- Minification
+- Bundling 
+- Compress 
+- Consistent Hashing   
+- Code splitting
+- Differential Bundling - supports old browser
